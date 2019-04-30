@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoGiuaKyAndroidNC</string>
+    <string name="id">id</string>
+    <string name="description">description</string>
+    <string name="Product">Product</string>
+    <string name="producer">producer</string>
+    <string name="Productname">Productname</string>
+    <string name="username">name</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="Price">Price</string>
+    <string name="Id">Id</string>
+</resources>
